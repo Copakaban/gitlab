@@ -9,3 +9,4 @@
 ![изображение](https://user-images.githubusercontent.com/118304300/235521460-2bc09522-5269-4c00-881e-66960e3fd396.png)
 ![изображение](https://user-images.githubusercontent.com/118304300/235521525-eaea0ab1-f25d-4ca0-af32-f7ae90db0c35.png)
 ![изображение](https://user-images.githubusercontent.com/118304300/235521595-f9dc7f2d-7450-4ec9-80b7-7faaa590116b.png)
+Как выяснилось: есть разница между расширением файла *.yaml и *.yml. Первый не индентифицируется как gitlab файл.
