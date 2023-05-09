@@ -5,8 +5,9 @@
 ![image](https://user-images.githubusercontent.com/118304300/235306724-c04993e7-6e7e-4e7f-a1fa-acd0433d7fa6.png)  
 
 **Задание 2.**  
-Успешно собранные сборки произвести не удалось.  
-![изображение](https://user-images.githubusercontent.com/118304300/235521460-2bc09522-5269-4c00-881e-66960e3fd396.png)
-![изображение](https://user-images.githubusercontent.com/118304300/235521525-eaea0ab1-f25d-4ca0-af32-f7ae90db0c35.png)
-![изображение](https://user-images.githubusercontent.com/118304300/235521595-f9dc7f2d-7450-4ec9-80b7-7faaa590116b.png)
+Успешно собранные сборки:
+![image](https://user-images.githubusercontent.com/118304300/237011297-fc85c04d-8e45-445e-a94d-fbe8e30d4fce.png)
+![image](https://user-images.githubusercontent.com/118304300/237011429-9f888e97-f62a-4654-ad53-75a93402aea3.png)
+![image](https://user-images.githubusercontent.com/118304300/237011556-ccddbd37-8c90-466d-a5f4-0f39f3523c11.png)  
+
 Как выяснилось: есть разница между расширением файла *.yaml и *.yml. Первый не индентифицируется как gitlab файл.
